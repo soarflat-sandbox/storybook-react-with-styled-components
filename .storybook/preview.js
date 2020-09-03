@@ -26,6 +26,8 @@ export const parameters = {
           'ReferringToOtherComponents',
           'StyleObjects',
         ],
+        'APIReference',
+        ['Primary', ['Styled', 'TaggedTemplateLiteral', 'StyledComponent']],
       ],
     },
   },
